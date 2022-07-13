@@ -102,12 +102,13 @@ iframe{
 .gallery{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .image-gallery{
-    position: absolute;
-    padding: 20px;
+    
 }
 .images{
+    padding: 20px;
     width: 700px;
     height: auto;
 }
